@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning python and git. I want to improve my skills at programming and I'm open to learn new skills.
 - 💞️ I’m looking to collaborate on apps development or programs related with electronics.
 - 📫 How to reach me:  andrescamilodiaz.75@gmail.com
-	![giphy](https://github.com/camilodiaz0305/camilodiaz0305/assets/116047639/f1107963-d50f-494f-a3a5-86bba5ce23de)
+
+![giphy](https://github.com/camilodiaz0305/camilodiaz0305/assets/116047639/f1107963-d50f-494f-a3a5-86bba5ce23de)
 
 
 <!---!
